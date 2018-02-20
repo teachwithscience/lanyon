@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! You must like learning!
 </p>
 
 Ever wanted to know insights from science but don't have the time to read journal articles? Wanted to learn new concepts in education and learning science but didn't know where to start? 
