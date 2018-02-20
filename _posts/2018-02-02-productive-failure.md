@@ -8,6 +8,6 @@ Is failing always a disaster? When might trying, but not succeeding, be a good t
 Manu Kapur wonders the same thing. 
 
 
-## How to Use These
+## How to Use These:
 
 In your classroom, in materials you present, in test questions, when asking questions, when writing on the board...
