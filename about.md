@@ -7,24 +7,12 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Ever wanted to know insights from science but don't have the time to read journal articles? Wanted to learn new concepts in education and learning science but didn't know where to start? 
 
-There are currently two themes built on Poole:
+## Start Here
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+On these pages you will find insights into education research on learning from both the student and teacher perspective. You'll find strategies to enhance your lesson plans, delivery, and insights into building your students into learners capable of monitoring their own learning. While this isn't a repository of every nuance or detail in education research, it will lay the groundwork, giving you the key terms and concepts to use in searching for deeper answers.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to email me at teachwithscience@gmail.com.
 
 Thanks for reading!
