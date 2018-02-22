@@ -10,6 +10,9 @@
 <h2 id="measuring-need-for-closure">Measuring Need for Closure</h2>
 <p>Currently, most researchers use a 15 item scale, known as the short-form version of the original 40+ item scale by Arie Kruglanski &amp; Donna Webster (199?). The current version was developed in 2011 by Arne Roots &amp; Alan Van Hiel and includes questions where a person rates how much they agree or disagree with statements such as:</p>
 <p>“I dislike it when a person’s statement could mean many different things.”</p>
+<p>“I dislike questions which could be answered in many different ways.”</p>
+<h2 id="relationship-to-other-implicit-beliefs">Relationship to Other Implicit Beliefs</h2>
+<p>-.27 correlation with Need for Cognition. In other words, as desire for thinking in general (love of figuring out the world, solving problems, etc.) is higher in a person, they are more likely to have a lower need for closure. This makes sense. Those who enjoy figuring out the complex world we live in had better be comfortable with uncertainty! Conversely, a person high in need for closure (loves structure, clear answers) is likely to have a low need for cognition. These individuals do not want to think through answers, looking for shades of grey and thus, in general, do not desire to process information at length.</p>
 <h3 id="references">References</h3>
 <p>Full revised NFC scale:<br>
 Roets, A, &amp; Van Hiel, A (2007). Separating ability from need: Clarifying the dimensional structure of the need for closure scale. Personality and Social Psychology Bulletin, 33, 266-280.</p>
