@@ -3,7 +3,6 @@
 
 ---
 
-<h1 id="reconciling-hard-vs.-easy">Reconciling Hard vs. Easy</h1>
 <p>Should learning come easy to students, laid out in plain terms and organized logically, or hard, using precise language and requiring effort to piece the knowledge together?</p>
 <p>Does either end of this dichotomy make learning “stick” better?</p>
 <h2 id="the-platforms">The Platforms</h2>
