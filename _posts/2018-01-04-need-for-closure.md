@@ -11,6 +11,7 @@
 <blockquote>
 <p>“motivated tendency to seek structure, simplify complex information, and avoid ambiguity”</p>
 </blockquote>
+<p>Desire for quick, permanent solution instead of a balanced, steady pursuit of nuance.</p>
 <p>Can also lead to overconfidence in predictions (whether in terms of learning topic or stereotypes).</p>
 <h2 id="measuring-need-for-closure">Measuring Need for Closure</h2>
 <p>Currently, most researchers use a 15 item scale, known as the short-form version of the original 40+ item scale by Arie Kruglanski &amp; Donna Webster (199?). The current version was developed in 2011 by Arne Roots &amp; Alan Van Hiel and includes questions where a person rates how much they agree or disagree with statements such as:</p>
@@ -24,6 +25,8 @@
 <p>‘When students who hold a high NFC experience environments in which there is nonspecific closure, such as is the case with PBL environments, they experience a cycle of “seizing” quickly on answers or solutions, then “freezing” and sustaining in the answer which was reached (DeBacker &amp; Crowson, 2009). Prior to the seizing, one experiences an absence of knowledge or judgment about the problem. The seizing is described as an urgent tendency, where one’s confidence may be low, openness to new information high, and few competing propositions or hypotheses are devised. After the seizing, one experiences a “crystallization” of their new decision or knowledge. The freezing is described as a result of the desire for permanence, with confidence in one’s knowledge being high, openness to new information low, and basically no competing suggestions generated (DeBacker &amp; Crowson, 2009).’</p>
 <h2 id="relationship-to-other-implicit-beliefs">Relationship to Other Implicit Beliefs</h2>
 <p>-.27 correlation with Need for Cognition. In other words, as desire for thinking in general (love of figuring out the world, solving problems, etc.) is higher in a person, they are more likely to have a lower need for closure. This makes sense. Those who enjoy figuring out the complex world we live in had better be comfortable with uncertainty! Conversely, a person high in need for closure (loves structure, clear answers) is likely to have a low need for cognition. These individuals do not want to think through answers, looking for shades of grey and thus, in general, do not desire to process information at length.</p>
+<h2 id="relationship-to-gpa">Relationship to GPA</h2>
+<p>Correlates at .30 (p&lt;.01) with GPA. Higher need for closure means higher GPA, perhaps more driven to complete tasks, seek an answer (though how does this relate to supposedly jumping on first answer?). Maybe most school tasks are straightforward, GPA as mostly a measure of straight answer following?</p>
 <h3 id="references">References</h3>
 <p>Full revised NFC scale:<br>
 Roets, A, &amp; Van Hiel, A (2007). Separating ability from need: Clarifying the dimensional structure of the need for closure scale. Personality and Social Psychology Bulletin, 33, 266-280.</p>
