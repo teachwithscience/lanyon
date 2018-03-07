@@ -3,6 +3,7 @@
 
 ---
 
+<h1 id="study-tips-the-pros-know">5 Study Tips the Pros Know</h1>
 <h2 id="make-me-wanna-shout.">Make me wanna shout.</h2>
 <p>Reading information out loud means mentally storing it in two ways: seeing it and hearing it. We just can’t guarantee you won’t get thrown out of the library.</p>
 <h2 id="treat-yoself">Treat yo’self!</h2>
