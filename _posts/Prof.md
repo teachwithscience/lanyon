@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="study--learning-tips">5 Study / Learning Tips</h1>
+<h1 id="study--learning-tips-for-chemistry-and-elsewhere">8 Study / Learning Tips for Chemistry and Elsewhere</h1>
 <h2 id="write-it-out.">Write it out.</h2>
 <p>Put those third-grade penmanship lessons to good use. <a href="http://www.intechopen.com/books/advances-in-haptics/digitizing-literacy-reflections-on-the-haptics-of-writing">Research suggests</a> we store information more securely when we write it out by hand than when we type it. Start by recopying the most important notes from the semester onto a new sheet of paper.</p>
 <h2 id="space-it-out.">Space it out.</h2>
